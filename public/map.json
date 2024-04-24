@@ -322,7 +322,7 @@
                 {
                  "height":23.5,
                  "id":33,
-                 "name":"",
+                 "name":"pc",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -355,7 +355,7 @@
                 {
                  "height":29,
                  "id":38,
-                 "name":"",
+                 "name":"sofa",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -366,7 +366,7 @@
                 {
                  "height":24.375,
                  "id":39,
-                 "name":"",
+                 "name":"tv",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -377,7 +377,7 @@
                 {
                  "height":15.4545454545455,
                  "id":40,
-                 "name":"",
+                 "name":"resume",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -388,7 +388,7 @@
                 {
                  "height":15.625,
                  "id":41,
-                 "name":"",
+                 "name":"projects",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -399,7 +399,7 @@
                 {
                  "height":26,
                  "id":42,
-                 "name":"",
+                 "name":"library",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -410,7 +410,7 @@
                 {
                  "height":17.375,
                  "id":45,
-                 "name":"",
+                 "name":"bed",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -455,7 +455,7 @@
                 {
                  "height":17.875,
                  "id":52,
-                 "name":"",
+                 "name":"sezer",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -466,7 +466,7 @@
                 {
                  "height":18.625,
                  "id":53,
-                 "name":"",
+                 "name":"alp",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -477,7 +477,7 @@
                 {
                  "height":17.875,
                  "id":54,
-                 "name":"",
+                 "name":"muhammet",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -488,7 +488,7 @@
                 {
                  "height":17.75,
                  "id":55,
-                 "name":"",
+                 "name":"samet",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -499,7 +499,7 @@
                 {
                  "height":16.875,
                  "id":56,
-                 "name":"",
+                 "name":"fatih",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -510,7 +510,7 @@
                 {
                  "height":15.875,
                  "id":57,
-                 "name":"",
+                 "name":"hamster",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -532,7 +532,7 @@
                 {
                  "height":30.625,
                  "id":59,
-                 "name":"",
+                 "name":"fridge",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -554,7 +554,7 @@
                 {
                  "height":23.875,
                  "id":62,
-                 "name":"",
+                 "name":"stv",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -565,7 +565,7 @@
                 {
                  "height":17.625,
                  "id":63,
-                 "name":"",
+                 "name":"nightstand",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -576,7 +576,7 @@
                 {
                  "height":15,
                  "id":64,
-                 "name":"",
+                 "name":"table",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -587,7 +587,7 @@
                 {
                  "height":14.25,
                  "id":65,
-                 "name":"",
+                 "name":"chairs",
                  "rotation":0,
                  "type":"",
                  "visible":true,

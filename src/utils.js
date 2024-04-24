@@ -15,7 +15,7 @@ export function displayDialogue(text, onDisplayEnd) {
         }
 
         clearInterval(intervalRef);
-    }, 5);
+    }, 1);
 
     const closeBtn = document.getElementById("close");
 
@@ -28,5 +28,19 @@ export function displayDialogue(text, onDisplayEnd) {
     }
 
     closeBtn.addEventListener("click", onCloseBtnClick);
+
+    addEventListener("keypress", (key) => {
+        if (key.code === "Enter") {
+          closeBtn.click();
+        }
+    });
 }
-    
+
+export function setCamScale(k) {
+    const resizeFactor = k.width() / k.height();
+    if (resizeFactor < 1) {
+      k.camScale(k.vec2(1));
+    } else {
+      k.camScale(k.vec2(1.5));
+    }
+}
