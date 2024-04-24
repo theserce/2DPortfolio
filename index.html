@@ -80,7 +80,7 @@
       filter: drop-shadow(0 0 0.75rem rgb(112, 112, 112));
       border: none;
       position: absolute;
-      top: 5rem;
+      top: 6rem;
       left: 5%;
       cursor: pointer;
       outline: none;
@@ -105,8 +105,25 @@
       </div>
       <canvas id="game"></canvas>
     </div>
-    <audio id="backgroundMusic" src="/pixel1.mp3" loop autoplay></audio>
-    <script src="/src/music.js"></script>
+    <audio id="backgroundMusic" src="https://audio.jukehost.co.uk/2GuI7Cegec1ZmwCN4osXPZIW85vYOdne" loop autoplay></audio>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const backgroundMusic = document.getElementById('backgroundMusic');
+            const toggleMusicButton = document.getElementById('toggleMusic');
+
+            backgroundMusic.play();
+
+            toggleMusicButton.addEventListener('click', () => {
+              if (backgroundMusic.paused) {
+                backgroundMusic.play();
+                toggleMusicButton.classList.remove('paused');
+              } else {
+                backgroundMusic.pause();
+                toggleMusicButton.classList.add('paused');
+              }
+            });
+        });
+    </script>
     <script type="module" src="src/main.js"></script>
   </body>
 </html>
