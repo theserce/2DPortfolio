@@ -8,5 +8,5 @@ Harita yapımında Tiled kullanıldı. [https://www.mapeditor.org/]
 
 -Diyaloglar eklenecek.
 -Bahçe eklenecek.
--font düzenlenecek.
--müzik eklenecek.
+-font düzenlenecek. (düzenlendi.)
+-müzik eklenecek. (eklendi.)
