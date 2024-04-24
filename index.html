@@ -71,10 +71,29 @@
         color: rgb(238, 238, 238);
         user-select: none;
       }
+
+      .music-toggle-btn {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background-color: rgba(219, 71, 71, 0.5);
+      filter: drop-shadow(0 0 0.75rem rgb(112, 112, 112));
+      border: none;
+      position: absolute;
+      top: 5rem;
+      left: 5%;
+      cursor: pointer;
+      outline: none;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 1.5rem;
+      }
     </style>
     <div id="app">
       <div id="ui">
         <p class="note">Hareket etmek için etrafa dokun veya tıkla.</p>
+        <button id="toggleMusic" class="music-toggle-btn">&#128266;</button>
         <div id="textbox-container" style="display: none">
           <div id="textbox">
             <p id="dialogue" class="ui-text"></p>
@@ -86,6 +105,8 @@
       </div>
       <canvas id="game"></canvas>
     </div>
+    <audio id="backgroundMusic" src="/music/pixel1.mp3" loop autoplay></audio>
+    <script src="/src/music.js"></script>
     <script type="module" src="src/main.js"></script>
   </body>
 </html>
