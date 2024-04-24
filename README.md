@@ -4,7 +4,7 @@ Siteme / Evrenime Bak: [https://theserce.github.io/universe/]
 
 Harita yapımında Tiled kullanıldı. [https://www.mapeditor.org/]
 
-![Image Alt Text](https://i.ibb.co/WvTn8vF/Ekran-g-r-nt-s-2024-04-24-193535.png)  
+![Ekran Görüntüsü](https://i.ibb.co/WvTn8vF/Ekran-g-r-nt-s-2024-04-24-193535.png)
 
 -Diyaloglar eklenecek.
 -Bahçe eklenecek.
