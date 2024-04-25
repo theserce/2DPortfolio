@@ -377,7 +377,7 @@
                 {
                  "height":15.4545454545455,
                  "id":40,
-                 "name":"resume",
+                 "name":"degree",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -421,7 +421,7 @@
                 {
                  "height":16.375,
                  "id":46,
-                 "name":"",
+                 "name":"empty2",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -433,7 +433,7 @@
                 {
                  "height":16.1818181818182,
                  "id":50,
-                 "name":"",
+                 "name":"empty",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -521,7 +521,7 @@
                 {
                  "height":16.625,
                  "id":58,
-                 "name":"",
+                 "name":"empty3",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -554,7 +554,7 @@
                 {
                  "height":23.875,
                  "id":62,
-                 "name":"stv",
+                 "name":"playstation",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -565,7 +565,7 @@
                 {
                  "height":17.625,
                  "id":63,
-                 "name":"nightstand",
+                 "name":"",
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -574,26 +574,26 @@
                  "y":221.875
                 }, 
                 {
-                 "height":15,
-                 "id":64,
+                 "height":17.8181818181818,
+                 "id":70,
+                 "name":"exit",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":5.78409090909091,
+                 "x":31.0909090909091,
+                 "y":143.090909090909
+                }, 
+                {
+                 "height":31.8181818181818,
+                 "id":71,
                  "name":"table",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":31.875,
-                 "x":304.125,
-                 "y":271.5
-                }, 
-                {
-                 "height":14.25,
-                 "id":65,
-                 "name":"chairs",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":32.875,
-                 "x":303.875,
-                 "y":289
+                 "width":32,
+                 "x":304,
+                 "y":272.090909090909
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -624,8 +624,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":9,
- "nextobjectid":67,
+ "nextlayerid":13,
+ "nextobjectid":72,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
